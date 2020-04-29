@@ -17,10 +17,10 @@ int RecVal;
 SoftwareSerial NodeMCU1(D2,D3);
 SoftwareSerial NodeMCU2(D6,D7);
 SoftwareSerial Nano(D8,D5);
-#define FIREBASE_HOST "iottt-21bfd.firebaseio.com"
-#define WIFI_SSID "BB" // Change the name of your WIFI
-#define WIFI_PASSWORD "##denack##" // Change the password of your WIFI
-#define FIREBASE_AUTH "1Sd7RSshy55dNAC0KMgYqj5ckKtm8p3cwZUiGOVp"
+#define FIREBASE_HOST "something.firebaseio.com"
+#define WIFI_SSID "HKB" // Change the name of your WIFI
+#define WIFI_PASSWORD "hehehaha" // Change the password of your WIFI
+#define FIREBASE_AUTH "1Sd7feRSshy55dNAC0KMgYqj5ckKtm8p3cwZUiGOVp"
 
 
 
